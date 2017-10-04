@@ -1,2 +1,8 @@
 # hello-world
-In the beginning... 
+Hello! My name is Erik and I'm a Compsci student at the University of Auckland in NZ. 
+
+
+
+
+
+
